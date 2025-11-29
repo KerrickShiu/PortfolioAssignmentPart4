@@ -1,0 +1,3 @@
+export default function Home() {
+return <p>Hello, my name is Kerrick Shiu. I am a student at Centennial College's Health Informatcs Technology. I am hoping to pursue a career with said education as I've always believed in helping others. While I was not always good at some things, computer science has always been something that I could do. So, I am putting forth my knowledge in Computer Science in helping those in need. Please click the following buttons above to learn more about me!</p>
+}
